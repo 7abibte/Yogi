@@ -304,8 +304,8 @@ address p {
 
 .hero-divs {
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
+    flex-flow: column wrap;
+    justify-content: center;
     align-items: center;
 }
 
@@ -701,6 +701,10 @@ input[type=button] {
     
     
 /* - Hero Area - */
+    
+    .hero-divs {
+        flex-flow: row wrap;
+    }
     
     .hero-area figure {
         width: 30%;
