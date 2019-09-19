@@ -310,8 +310,6 @@ address p {
 }
 
 .hero-area figure {
-    width: 40%;
-    height: auto;
     display: flex;
     flex: row wrap; 
 }
@@ -324,6 +322,7 @@ address p {
 
 .hero-area img {
     border-radius: 50%;
+    width: 100%;
 }
 
 .hero-area h1 {
