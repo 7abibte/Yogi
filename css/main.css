@@ -310,13 +310,12 @@ address p {
 }
 
 .hero-area figure {
-    display: flex;
-    flex: row wrap; 
+    width: 40%;
 }
 
 .hero-text {
     width: 50%;
-    color: #6E7D8C;
+    color: #3E4144;
     text-align: justify;
 }
 
@@ -394,7 +393,7 @@ aside {
 }
 
 .horizontal img {
-    width: 120%;
+    width: 100%;
     height: auto;
 }
 
