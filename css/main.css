@@ -311,6 +311,7 @@ address p {
 
 .hero-area figure {
     width: 40%;
+    height: auto;
     display: flex;
     flex: row wrap; 
 }
