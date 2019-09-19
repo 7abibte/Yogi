@@ -201,7 +201,7 @@ header .content-wrapper {
 
 header i {
     font-size: 3em;
-    color: red; /*#FFC9B5;*/
+    color: purple; /*#FFC9B5;*/
     padding-right: 10px;
 }
 
@@ -386,12 +386,16 @@ aside {
 
 .features-items video,
 .features-items img {
-    width: 100%;
-    height: auto;
+    width: auto;;
+    height: 25em;
     margin-bottom: 1em;
     padding: 0.5em;  
 }
 
+.horizontal img {
+    height: 15em;
+    width: auto;
+}
 
 .features i {
     font-size: 5em;
